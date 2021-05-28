@@ -1,0 +1,3 @@
+ALTER TABLE `users`
+  ADD COLUMN `starterpack` TINYINT NOT NULL DEFAULT '0'
+;
