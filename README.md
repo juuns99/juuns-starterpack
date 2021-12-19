@@ -18,5 +18,5 @@ Kendaraan langsung masuk ke dalam garasi
 Kalau ada pertanyaan bisa langsung kontak **JuunS#1159**
 
 ## 📝 License
-Copyright © 2021 [Avneesh Agarwal](https://github.com/juunsdev). <br />
+Copyright © 2021 [JuunS](https://github.com/juunsdev). <br />
 This project is [MIT](https://github.com/juunsdev/LICENSE) licensed.
